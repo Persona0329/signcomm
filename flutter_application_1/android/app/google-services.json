@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "798856371431",
+    "project_id": "signcomlegit",
+    "storage_bucket": "signcomlegit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798856371431:android:d3b80ce98caafa361d5642",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQJvtqtlW-LKkNL2OQXkDaVxZsbgH4Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
